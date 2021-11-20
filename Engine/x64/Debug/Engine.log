@@ -1,0 +1,5 @@
+﻿  Snake.cpp
+C:\Users\Termo\OneDrive\Documents\Code Projects\T14-Snek-Start\Engine\Snake.cpp(34): error C2280: 'Snake::Segment::Segment(void)': attempting to reference a deleted function
+C:\Users\Termo\OneDrive\Documents\Code Projects\T14-Snek-Start\Engine\Snake.h(17): message : compiler has generated 'Snake::Segment::Segment' here
+C:\Users\Termo\OneDrive\Documents\Code Projects\T14-Snek-Start\Engine\Snake.h(17,5): message : 'Snake::Segment::Segment(void)': function was implicitly deleted because a data member 'Snake::Segment::loc' has either no appropriate default constructor or overload resolution was ambiguous
+C:\Users\Termo\OneDrive\Documents\Code Projects\T14-Snek-Start\Engine\Snake.h(15): message : see declaration of 'Snake::Segment::loc'
